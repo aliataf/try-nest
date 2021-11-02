@@ -1,4 +1,18 @@
 {
-  "singleQuote": true,
-  "trailingComma": "all"
+	"printWidth": 100,
+	"tabWidth": 3,
+	"useTabs": true,
+	"semi": true,
+	"singleQuote": true,
+	"quoteProps": "as-needed",
+	"trailingComma": "all",
+	"bracketSpacing": true,
+	"jsxBracketSameLine": true,
+	"arrowParens": "always",
+	"rangeStart": 0,
+	"requirePragma": false,
+	"proseWrap": "preserve",
+	"htmlWhitespaceSensitivity": "css",
+	"vueIndentScriptAndStyle": false,
+	"endOfLine": "lf"
 }
